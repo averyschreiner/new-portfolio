@@ -1,15 +1,3 @@
-/*
- * Class: Survey of Alg
- * Author: Avery Schreiner
- * Description: p2 mst
- * Due: 29 April 2022
- * I pledge that I have completed the programming assignment independently.
- * I have not copied the code from a student or any source.
- * I have not given my code to any other student.
- * I have not given my code to any other student and will not share this code
- * with anyone under any circumstances.
- */
-
  import org.jgrapht.graph.*;
  import java.util.*;
  
